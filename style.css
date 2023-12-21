@@ -66,3 +66,32 @@ button {
     border-radius: 10px;
     border: none;
 }
+
+.info {
+    text-align: center;
+    padding: 50px 100px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.icon {
+    width: 250px;
+    height: auto;
+}
+
+.info-text {
+    margin: 0;
+    color: #a7a9b8;
+}
+
