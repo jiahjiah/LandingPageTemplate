@@ -114,7 +114,7 @@ button {
 }
 
 .call-to-action {
-    padding: 50px 100px;
+    padding: 100px 150px;
 }
 .box {
     background-color: #3883F6;
@@ -137,4 +137,9 @@ h3 {
 
 .white-outline {
     border: 2px solid white;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
 }
