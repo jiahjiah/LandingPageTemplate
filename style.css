@@ -69,7 +69,7 @@ button {
 
 .info {
     text-align: center;
-    padding: 50px 100px;
+    padding: 100px 100px;
 }
 
 .info-header {
@@ -77,6 +77,7 @@ button {
     font-weight: 800;
     color: #1F2937;
     margin-bottom: 20px;
+    margin-top: 0;
 }
 
 .container {
@@ -92,6 +93,48 @@ button {
 
 .info-text {
     margin: 0;
-    color: #a7a9b8;
+    color: #757782;
 }
 
+.quote-section {
+    padding: 50px 225px;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.person {
+    font-weight: bold;
+    color: #1F2937;
+    text-align: end;
+}
+
+.call-to-action {
+    padding: 50px 100px;
+}
+.box {
+    background-color: #3883F6;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: none;
+    align-items: center;
+}
+
+.callout {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: white;
+}
+
+.white-outline {
+    border: 2px solid white;
+}
